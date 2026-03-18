@@ -1,0 +1,95 @@
+body{
+  margin:0;
+  font-family:Arial;
+}
+
+/* Navbar */
+
+.navbar{
+  display:flex;
+  justify-content:space-between;
+  padding:20px;
+  background:#5e2ca5;
+  color:white;
+}
+
+.navbar a{
+  margin-left:20px;
+  color:white;
+  text-decoration:none;
+}
+
+/* Hero */
+
+.hero{
+  text-align:center;
+  padding:80px;
+  background:#f4f4f4;
+}
+
+.hero button{
+  padding:10px 20px;
+  font-size:16px;
+}
+
+/* Books */
+
+.books{
+  padding:40px;
+  text-align:center;
+}
+
+.book-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:20px;
+}
+
+.book-card{
+  background:#eee;
+  padding:30px;
+}
+
+/* Activities */
+
+.activities{
+  padding:40px;
+  background:#fafafa;
+}
+
+.activity-grid{
+  display:grid;
+  grid-template-columns:repeat(5,1fr);
+  gap:20px;
+}
+
+.activity-card{
+  background:#ddd;
+  padding:20px;
+  text-align:center;
+}
+
+/* Gallery */
+
+.gallery{
+  padding:40px;
+}
+
+.gallery-grid{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:10px;
+}
+
+.gallery img{
+  width:100%;
+}
+
+/* Footer */
+
+footer{
+  background:#5e2ca5;
+  color:white;
+  text-align:center;
+  padding:20px;
+}
