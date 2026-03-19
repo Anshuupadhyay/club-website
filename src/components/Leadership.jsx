@@ -1,5 +1,5 @@
 import presidentImg from "../assets/president.png"
-import secretaryImg from "../assets/president.png"
+import secretaryImg from "../assets/secretary.png"
 
 function Leadership(){
 
@@ -54,7 +54,7 @@ Pushtakalaya and Club and manages the day-to-day functioning
 of the organization, ensuring events and activities run smoothly.
 </p>
 
-</div>
+</div>*/
 
 </div>
 

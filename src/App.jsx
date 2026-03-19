@@ -18,7 +18,6 @@ return(
 <Hero/>
 <Activities/>
 <Leadership/>
-<Gallery/>
  <ChatBot />
 <Footer/>
 </>
