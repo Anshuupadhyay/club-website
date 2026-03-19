@@ -6,6 +6,7 @@ import Footer from "./components/Footer"
 import President from "./components/President"
 import "./styles/global.css"
 import Leadership from "./components/Leadership"
+import ChatBot from "./components/ChatBot"
 
 function App(){
 
@@ -18,6 +19,7 @@ return(
 <Activities/>
 <Leadership/>
 <Gallery/>
+ <ChatBot />
 <Footer/>
 </>
 
