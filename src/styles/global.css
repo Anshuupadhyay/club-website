@@ -522,7 +522,7 @@ footer {
   .chatbot-tooltip::after {
     right: 20px;       /* keep arrow aligned */
   }
-}
+
 /* TYPING DOTS */
 .typing-dots {
   display: flex;
